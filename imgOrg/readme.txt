@@ -1,0 +1,1 @@
+Carpeta en la cual se guardan las imagenes luego de ser comprimidas
